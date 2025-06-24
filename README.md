@@ -40,11 +40,15 @@ Whether you're brand new to Python or brushing up your skills, this journal help
 4. Create your own folder inside /day-logs/ using your name/username if you’re a new contributor.
    
 5. Add your logs, notes, or code regularly in the following way:
-**day-logs/your name/day1.md**
+   
+ **day-logs/your name/day1.md**
 
-6. Stage, commit and push:
+7. Stage, commit and push:
+   
    git add .
+   
    git commit -m "Added Day 1 log by [Your Name]"
+   
    git push origin main
 
 ## Recommended Resources
