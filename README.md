@@ -13,11 +13,7 @@ This repo is our shared space to:
 Whether you're brand new to Python or brushing up your skills, this journal helps structure your learning while building a public portfolio.
 
 ## 🗂️ Folder Structure
-├── day-logs/ # Daily/weekly notes & logs by each member
-├── mini-projects/ # Small Python projects and exercises
-├── resources/ # Useful links, tutorials, books, cheat sheets
-├── challenges/ # Coding problems and peer challenges
-├── README.md # Project introduction and structure
+<pre><code>```text ├── day-logs/ # Daily/weekly notes & logs by each member ├── mini-projects/ # Small Python projects and exercises ├── resources/ # Useful links, tutorials, books, cheat sheets ├── challenges/ # Coding problems and peer challenges ├── README.md # Project introduction and structure └── CONTRIBUTING.md # (Optional) Contribution guidelines ```</code></pre>
 
 ## ✍️ How to Contribute
 1. **Fork this repository** (if you're joining the group)
@@ -67,7 +63,9 @@ Scikit-Learn Course - Machine Learning in Python Tutorial - https://www.youtube.
 
 Some good books:
 Think Python by Allen B. Downey - https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
 Python for Everybody by Dr. Charles Severance - https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
 Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf
 
 You can also refer to this roadmap for python - https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/YouTube/Python%20Roadmap.pdf
